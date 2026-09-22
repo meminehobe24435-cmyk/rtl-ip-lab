@@ -1,0 +1,3 @@
+﻿"########## yosys synth: async_fifo ##########"
+"########## yosys synth: axis_dma ##########"
+"########## yosys synth: spi_master ##########"
